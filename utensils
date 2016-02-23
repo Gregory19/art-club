@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+</head>
+<body style="background-color:#990033; text-align: center">
+	<h1 style="text-align:center;font-size:80px">
+	ART SCHOOLS
+	<br>
+	<a href="file:///users/sydneycox/desktop/index.html">Home</a>
+</h1>
+	<h2>
+		<img src="art-club/images/2h.jpeg" float="left">2H
+		<br>
+		<img src="art-club/images/hb.jpeg" float="left">HB
+		<br>
+		<img src="art-club/images/2b.jpeg" float="left">2B
+		<br>
+		<img src="art-club/images/4b.jpeg" float="right">4B
+		<br>
+		<img src="art-club/images/6b.jpeg" float="right">6B
+		<br>
+		<img src="art-club/images/8b.jpeg" float="right">8B
+		<br>
+		<img src="art-club/images/smudger.jpeg" float="left">SMUDGER
+		<br>
+		<img src="art-club/images/eraser.jpeg" float="right">KNEADED ERASER
+		<br>
+		<img src="art-club/images/marks.jpeg" float="center">PENCIL MARKS
+		<br>
+	</h2>
+</body>
+</html>
